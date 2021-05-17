@@ -2,7 +2,7 @@
 
 Predicting whether patients have a risk of heart disease or not
 
-#Abstract
+# Abstract
 
 In this project, machine algorithms were applied using the heart disease dataset, which
 are variables such as age, gender, cholesterol, and a prediction model was created with
